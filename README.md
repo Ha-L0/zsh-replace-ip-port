@@ -3,7 +3,7 @@
 ### [oh-my-zsh](http://github.com/robbyrussell/oh-my-zsh)
 - clone repo inside your oh-my-zsh repo
 	```shell
-	git clone https://github.com/zsh-users/zsh-completions ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions
+	git clone https://github.com/Ha-L0/zsh-replace-ip-port ${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-replace-ip-port
 	```
 
 - add `zsh-replace-ip-port` to plugins in `~/.zshrc` config
