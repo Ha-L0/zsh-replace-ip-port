@@ -8,7 +8,7 @@
 
 - add `zsh-replace-ip-port` to plugins in `~/.zshrc` config
 	```
-	plugins(... zsh-replace-ip-port
+	plugins(... zsh-replace-ip-port)
 	```
 
 ## Usage
